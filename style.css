@@ -1,3 +1,24 @@
 body{
     background-color: grey;
 }
+
+h1{
+    text-align: center;
+    
+
+}
+
+header{
+    text-align: center;
+}
+
+footer{
+    text-align: center;
+}
+
+
+h2{
+    border: 2px solid purple;
+    text-size-adjust: 50%;
+}
+
